@@ -3,6 +3,6 @@ Desenvolvimento de um chatbot para WhatsApp utilizando Python e a biblioteca Sel
 
 ## ChromeDriver
 <a>https://chromedriver.chromium.org/downloads</a>
-<p>baixar chrome drive e indicar a pasta do arquivo .exe em self.driver = webdriver.Chrome(executable_path=r"") entre as aspas com \chromedriver.exe no fim</p>
+<p>Baixar chrome drive e indicar a pasta do arquivo .exe em self.driver = webdriver.Chrome(executable_path=r"") entre as aspas com \chromedriver.exe no fim</p>
 
-<p>para saber a versão do seu Chrome clique com o botão direito "abrir local do arquivo"</p>
+<p>Para saber a versão do seu Chrome clique com o botão direito "abrir local do arquivo"</p>
